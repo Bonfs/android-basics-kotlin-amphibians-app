@@ -20,7 +20,7 @@
     <data>
         <variable
             name="amphibian"
-            type="com.example.amphibians.network.Amphibian" />
+            type="com.example.amphibians.data.Amphibian" />
         <variable
             name="clickListener"
             type="com.example.amphibians.ui.AmphibianListener" />

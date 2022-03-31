@@ -21,7 +21,7 @@ import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
 import com.example.amphibians.databinding.ListViewItemBinding
-import com.example.amphibians.network.Amphibian
+import com.example.amphibians.data.Amphibian
 
 /**
  * This class implements a [RecyclerView] [ListAdapter] which uses Data Binding to present [List]

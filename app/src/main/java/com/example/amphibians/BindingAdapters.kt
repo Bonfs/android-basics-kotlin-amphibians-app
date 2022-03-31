@@ -19,7 +19,7 @@ import android.view.View
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.amphibians.network.Amphibian
+import com.example.amphibians.data.Amphibian
 import com.example.amphibians.ui.AmphibianApiStatus
 import com.example.amphibians.ui.AmphibianListAdapter
 
